@@ -2,13 +2,13 @@
   "appId": "com.polosys.app",
   "platform": "mac",
   "channel": "development",
-  "version": "10.50.85",
-  "bundleId": "10.50.85",
-  "bundleUrl": "mac/development/bundles/polosys-mac-10.50.85.zip",
+  "version": "10.50.86",
+  "bundleId": "10.50.86",
+  "bundleUrl": "mac/development/bundles/polosys-mac-10.50.86.zip",
   "rollback": {
     "enabled": true,
     "reason": "",
-    "minSafeBundleId": "10.50.85",
+    "minSafeBundleId": "10.50.86",
     "forceRollback": false
   }
 }
